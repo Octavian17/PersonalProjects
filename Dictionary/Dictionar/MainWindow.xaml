@@ -1,0 +1,72 @@
+﻿<Window x:Class="Dictionar.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:ctx="clr-namespace:Dictionar"
+        mc:Ignorable="d"
+        Title="Dictionar" Height="450" Width="800">
+    <Window.DataContext>
+        <ctx:Cuvant/>
+    </Window.DataContext>
+
+    <Grid>
+        <WrapPanel Margin="300,0,0,0" Height="419" VerticalAlignment="Bottom">
+            <Label Height="54" FontSize="30" Width="230" Content="Administrare"/>
+        </WrapPanel>
+        <StackPanel Margin="0,80,0,0">
+            <WrapPanel>
+                <Label FontSize="18" Margin="80,0,0,0">Adaugare:</Label>
+                <Label FontSize="18" Margin="180,0,0,0">Stergere:</Label>
+                <Label FontSize="18" Margin="180,0,0,0">Modificare:</Label>
+            </WrapPanel>
+            <WrapPanel Margin="10">
+                <Label Margin="0,0,60,0" >Cuvant:</Label>
+                <TextBox Name="text1"  Width="130" Text="{Binding Cuv}" ></TextBox>
+                <TextBlock Text="{Binding CuvExistent}"></TextBlock>
+
+                <Label Margin="70,0,0,0">Cuvant:</Label>
+                <TextBox Margin="10,0,0,0" Name="Sterg" Width="130"  ></TextBox>
+
+                <Label Margin="50,0,0,0">Cuvant:</Label>
+                <TextBox Margin="23,0,0,0" Name="Modific" Width="130"  ></TextBox>
+            </WrapPanel>
+            <WrapPanel Margin="10">
+                <Label>Categorii existente:</Label>
+                <ComboBox Width="130" Name="CatEx" ItemsSource="{Binding Path=Cuvinte.ListaCategorii}" 
+             SelectedValue="{Binding Path=Categorie}"/>
+
+                <Button Width="120" Margin="110,0,0,0" Click="Sterge">Sterge Cuvant</Button>
+
+                <Label Margin="80,0,0,0">Descriere:</Label>
+                <TextBox Margin="10,0,0,0" Name="DescriereNoua" Width="130"  ></TextBox>
+            </WrapPanel>
+            <WrapPanel Margin="10" >
+                <Label Margin="0,0,47,0">Categorie:</Label>
+                <TextBox  Name="text2" Width="130" Text="{Binding Categorie}"/>
+
+                <Label Margin="310,0,0,0">Categorie:</Label>
+                <TextBox Margin="10,0,0,0" Name="CategorieNoua" Width="130"  ></TextBox>
+            </WrapPanel>
+            <WrapPanel Margin="10">
+                <Button Margin="10,0,0,0" Width="100" Click="SelectareImagine">Selectare Imagine</Button>
+                <TextBlock Margin="40,0,0,0" Name="img" Text="C:\Users\Octavian\Desktop\mvp\Dictionar\Dictionar\bin\Debug\NoImage.png"></TextBlock>
+
+            </WrapPanel>
+            <WrapPanel Margin="10">
+                <Label Margin="0,0,48,0">Descriere:</Label>
+                <TextBox Name="text3" Width="130" Text="{Binding Descriere}"/>
+
+                <Button Width="120" Margin="360,0,0,0" Click="Modifica">Modifica</Button>
+            </WrapPanel>
+            <Button Margin="50,10,600,10" Click="Adauga">Adauga Cuvant</Button>
+            <WrapPanel>
+                <Button Margin="300,0,0,70" Width="120" Click="Cauta">Cauta</Button>
+                <Button Margin="20,0,0,70" Width="120" Height="20" Click="Joc">Joc</Button>
+            </WrapPanel>
+        </StackPanel>
+
+        
+
+    </Grid>
+</Window>
