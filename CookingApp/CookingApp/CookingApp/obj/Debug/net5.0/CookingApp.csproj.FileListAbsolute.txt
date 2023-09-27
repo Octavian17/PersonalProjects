@@ -1,0 +1,318 @@
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\obj\Debug\net5.0\CookingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\obj\Debug\net5.0\CookingApp.AssemblyInfoInputs.cache
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\obj\Debug\net5.0\CookingApp.AssemblyInfo.cs
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\obj\Debug\net5.0\CookingApp.csproj.CoreCompileInputs.cache
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\obj\Debug\net5.0\CookingApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\obj\Debug\net5.0\CookingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\appsettings.json
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\CookingApp.exe
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\CookingApp.deps.json
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\CookingApp.runtimeconfig.json
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\CookingApp.runtimeconfig.dev.json
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\CookingApp.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\ref\CookingApp.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\CookingApp.pdb
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\DnsClient.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\obj\Debug\net5.0\staticwebassets\CookingApp.StaticWebAssets.Manifest.cache
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\obj\Debug\net5.0\staticwebassets\CookingApp.StaticWebAssets.xml
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\obj\Debug\net5.0\scopedcss\bundle\CookingApp.styles.css
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\obj\Debug\net5.0\CookingApp.RazorTargetAssemblyInfo.cache
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\obj\Debug\net5.0\CookingApp.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\obj\Debug\net5.0\ref\CookingApp.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\obj\Debug\net5.0\CookingApp.pdb
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\obj\Debug\net5.0\CookingApp.genruntimeconfig.cache
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\presc\OneDrive\Desktop\Cooking app\app\Cooking-app\CookingApp\CookingApp\obj\Debug\net5.0\CookingApp.csproj.AssemblyReference.cache
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\appsettings.json
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\CookingApp.StaticWebAssets.xml
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\CookingApp.exe
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\CookingApp.deps.json
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\CookingApp.runtimeconfig.json
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\CookingApp.runtimeconfig.dev.json
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\CookingApp.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\CookingApp.pdb
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\DnsClient.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\obj\Debug\net5.0\CookingApp.csproj.AssemblyReference.cache
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\obj\Debug\net5.0\CookingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\obj\Debug\net5.0\CookingApp.AssemblyInfoInputs.cache
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\obj\Debug\net5.0\CookingApp.AssemblyInfo.cs
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\obj\Debug\net5.0\CookingApp.csproj.CoreCompileInputs.cache
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\obj\Debug\net5.0\CookingApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\obj\Debug\net5.0\CookingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\obj\Debug\net5.0\scopedcss\bundle\CookingApp.styles.css
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\obj\Debug\net5.0\staticwebassets\CookingApp.StaticWebAssets.Manifest.cache
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\obj\Debug\net5.0\staticwebassets\CookingApp.StaticWebAssets.Pack.cache
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\obj\Debug\net5.0\staticwebassets\msbuild.CookingApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\obj\Debug\net5.0\staticwebassets\msbuild.build.CookingApp.props
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CookingApp.props
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CookingApp.props
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\obj\Debug\net5.0\CookingApp.RazorTargetAssemblyInfo.cache
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\obj\Debug\net5.0\CookingApp.csproj.CopyComplete
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\obj\Debug\net5.0\CookingApp.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\obj\Debug\net5.0\refint\CookingApp.dll
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\obj\Debug\net5.0\CookingApp.pdb
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\obj\Debug\net5.0\CookingApp.genruntimeconfig.cache
+C:\Users\presc\OneDrive\Desktop\facultate\licenta\aplicatie\CookingApp\CookingApp\obj\Debug\net5.0\ref\CookingApp.dll
