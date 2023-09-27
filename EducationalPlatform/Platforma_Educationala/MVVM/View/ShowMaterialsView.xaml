@@ -1,0 +1,28 @@
+﻿<Window x:Class="Platforma_Educationala.MVVM.View.ShowMaterialsView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Platforma_Educationala.MVVM.ViewModel"
+        mc:Ignorable="d"
+        Title="ShowMaterialsView" Height="450" Width="800" Background="#FF11A497">
+    <Window.DataContext>
+        <local:ShowMaterialsVM/>
+    </Window.DataContext>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <DataGrid Grid.Row="0" Name="MaterialsTable"  AutoGenerateColumns="False"
+                  ItemsSource="{Binding Materials}" IsReadOnly="True"
+                  ScrollViewer.VerticalScrollBarVisibility="Visible">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Materie" Binding="{Binding Item1.SubjectName}"/>
+                <DataGridTextColumn Header="Continut" Binding="{Binding Item2.MaterialName}"/>
+                <DataGridTextColumn Header="Semestru" Binding="{Binding Item1.Semester}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Grid.Row="1" Content="Deschide" Command="{Binding OpenMaterial}" CommandParameter="{Binding ElementName=MaterialsTable, Path=SelectedItem.Item2.Material}"/>
+    </Grid>
+</Window>

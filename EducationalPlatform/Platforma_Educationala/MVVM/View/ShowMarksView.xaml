@@ -1,0 +1,25 @@
+﻿<Window x:Class="Platforma_Educationala.MVVM.View.ShowMarksView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Platforma_Educationala.MVVM.ViewModel"
+        mc:Ignorable="d"
+        Title="ShowMarks" Height="450" Width="800" Background="#FF11A497">
+    <Window.DataContext>
+        <local:ShowMarksVM/>
+    </Window.DataContext>
+    <Grid>
+        <DataGrid Name="MarksTable"  AutoGenerateColumns="False"
+                  ItemsSource="{Binding Marks}" IsReadOnly="True"
+                  ScrollViewer.VerticalScrollBarVisibility="Visible">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Materie" Binding="{Binding Item1.SubjectName}"/>
+                <DataGridTextColumn Header="Nota" Binding="{Binding Item2.Score}"/>
+                <DataGridTextColumn Header="Teza" Binding="{Binding Item2.ThesisStatus}"/>
+                <DataGridTextColumn Header="Data" Binding="{Binding Item2.Date}"/>
+                <DataGridTextColumn Header="Semestru" Binding="{Binding Item1.Semester}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

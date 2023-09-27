@@ -1,0 +1,69 @@
+﻿<Window x:Class="Platforma_Educationala.MVVM.View.MenuSubjectView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Platforma_Educationala.MVVM.ViewModel"
+        mc:Ignorable="d"
+        x:Name="menuSubjectView"
+        Title="MenuSubjectView" Height="450" Width="800" Background="SlateGray">
+    <Window.DataContext>
+        <local:MenuSubjectVM/>
+    </Window.DataContext>
+    <Grid  Margin="0,-10,0,10" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="1" Grid.RowSpan="4" Grid.Column="0" Grid.ColumnSpan="2">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="60*"/>
+                <ColumnDefinition Width="46"/>
+                <ColumnDefinition Width="53*"/>
+                <ColumnDefinition Width="158*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Label Grid.Row="0" Grid.Column="0" Content="Nume:" HorizontalContentAlignment="Right" FontSize="28" Grid.ColumnSpan="3"/>
+            <TextBox x:Name="name" Grid.Row="0" TextWrapping="Wrap" Text="{Binding ElementName=grid, Path=SelectedItem.SubjectName, Mode=OneWay}" Grid.Column="3" HorizontalAlignment="left"  Margin="0,10,0,20" Width="140" />
+            <Label Grid.Row="1" Grid.Column="0" Content="Semestru:" HorizontalContentAlignment="Right" FontSize="28" Grid.ColumnSpan="3"/>
+            <TextBox x:Name="semester" Grid.Row="1" Grid.Column="3" TextWrapping="Wrap" Text="{Binding ElementName=grid, Path=SelectedItem.Semester,Mode=OneWay}" HorizontalAlignment="left"   Margin="0,10,0,20" Width="140" />
+           
+        </Grid>
+        <Button  Grid.Row="0" Grid.Column="0" Content="Adauga" BorderBrush="Black" BorderThickness="3" HorizontalAlignment="Center" Height="35" Width="115" Command="{Binding AddSubject}" CommandParameter="{Binding ElementName=menuSubjectView}" />
+        <Button  Grid.Row="0" Grid.Column="1" Content="Sterge" BorderBrush="Black" BorderThickness="3" HorizontalAlignment="Center" Height="35" Width="115" Command="{Binding DeleteSubject}" CommandParameter="{Binding ElementName=grid}"/>
+        <Button  Grid.Row="0" Grid.Column="2" Content="Modifica" BorderBrush="Black" BorderThickness="3" HorizontalAlignment="Center" Height="35" Width="115" Command="{Binding ModifySubject}" CommandParameter="{Binding ElementName=menuSubjectView}" />
+        <Button  Grid.Row="0" Grid.Column="3" Content="Deselecteaza" BorderBrush="Black" BorderThickness="3" HorizontalAlignment="Center" Height="35" Width="115" Command="{Binding Deselect}" CommandParameter="{Binding ElementName=grid}"/>
+
+        <DataGrid x:Name="grid" Grid.Row="1" Grid.RowSpan="4" Grid.Column="2" Grid.ColumnSpan="2" AutoGenerateColumns="False"
+                  ItemsSource="{Binding Subjects}" IsReadOnly="True"
+                  ScrollViewer.VerticalScrollBarVisibility="Visible">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Nume" Binding="{Binding SubjectName}"/>
+                <DataGridTextColumn Header="Semestru" Binding="{Binding Semester}"/>
+                
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>

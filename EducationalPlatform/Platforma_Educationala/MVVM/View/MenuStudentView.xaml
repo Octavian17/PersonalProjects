@@ -1,0 +1,80 @@
+﻿<Window x:Class="Platforma_Educationala.MVVM.View.MenuStudentView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Platforma_Educationala.MVVM.ViewModel"
+        mc:Ignorable="d"
+        x:Name="menuStudentView"
+        Title="MenuStudentView" Height="450" Width="800" Background="SlateGray">
+    <Window.DataContext>
+        <local:MenuStudentVM/>
+    </Window.DataContext>
+    <Grid  Margin="0,-10,0,10" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="1" Grid.RowSpan="4" Grid.Column="0" Grid.ColumnSpan="2">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="60*"/>
+                <ColumnDefinition Width="46"/>
+                <ColumnDefinition Width="53*"/>
+                <ColumnDefinition Width="158*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Label Grid.Row="0" Grid.Column="0" Content="Email:" HorizontalContentAlignment="Right" FontSize="28" Grid.ColumnSpan="3"/>
+            <TextBox x:Name="email" Grid.Row="0" TextWrapping="Wrap" Text="{Binding ElementName=grid, Path=SelectedItem.Item1.Email, Mode=OneWay}" Grid.Column="3" HorizontalAlignment="left"  Margin="0,10,0,20" Width="140" />
+            <Label Grid.Row="1" Grid.Column="0" Content="Parola:" HorizontalContentAlignment="Right" FontSize="28" Grid.ColumnSpan="3"/>
+            <TextBox x:Name="password" Grid.Row="1" Grid.Column="3" TextWrapping="Wrap" Text="{Binding ElementName=grid, Path=SelectedItem.Item1.Password,Mode=OneWay}" HorizontalAlignment="left"   Margin="0,10,0,20" Width="140" />
+            <Label Grid.Row="2" Grid.Column="0" Content="Prenume:" HorizontalContentAlignment="Right" FontSize="28" Grid.ColumnSpan="3"/>
+            <TextBox x:Name="firstName" Grid.Row="2" Grid.Column="3"  HorizontalAlignment="left"  Width="140" Text="{Binding ElementName=grid, Path=SelectedItem.Item1.FirstName,Mode=OneWay}" Margin="0,10,0,20"/>
+            <Label Grid.Row="3" Grid.Column="0" Content="Nume:" HorizontalContentAlignment="Right" FontSize="28" Grid.ColumnSpan="3"/>
+            <TextBox x:Name="lastName" Grid.Row="3" TextWrapping="Wrap" Text="{Binding ElementName=grid, Path=SelectedItem.Item1.LastName, Mode=OneWay}" Grid.Column="3" HorizontalAlignment="left"  Margin="0,10,0,20" Width="140" />
+            <Label Grid.Row="4" Grid.Column="0" Content="Telefon:" HorizontalContentAlignment="Right" FontSize="28" Grid.ColumnSpan="3"/>
+            <TextBox x:Name="phone" Grid.Row="4" TextWrapping="Wrap" Text="{Binding ElementName=grid, Path=SelectedItem.Item1.Phone, Mode=OneWay}" Grid.Column="3" HorizontalAlignment="left"  Margin="0,10,0,20" Width="140" />
+            <Label Grid.Row="5" Grid.Column="0" Content="Clasa:" HorizontalContentAlignment="Right" FontSize="28" Grid.ColumnSpan="3"/>
+            <ComboBox x:Name="classroom" Grid.Row="5" IsEditable="False" ItemsSource="{Binding Classes}" DisplayMemberPath="Grade" Text="{Binding ElementName=grid, Path=SelectedItem.Item2,Mode=OneWay}" Grid.Column="3" HorizontalAlignment="left"  Margin="0,10,0,20" Width="140" />
+
+        </Grid>
+        <Button  Grid.Row="0" Grid.Column="0" Content="Adauga" BorderBrush="Black" BorderThickness="3" HorizontalAlignment="Center" Height="35" Width="115" Command="{Binding AddStudent}" CommandParameter="{Binding ElementName=menuStudentView}" />
+        <Button  Grid.Row="0" Grid.Column="1" Content="Sterge" BorderBrush="Black" BorderThickness="3" HorizontalAlignment="Center" Height="35" Width="115" Command="{Binding DeleteStudent}" CommandParameter="{Binding ElementName=grid}"/>
+        <Button  Grid.Row="0" Grid.Column="2" Content="Modifica" BorderBrush="Black" BorderThickness="3" HorizontalAlignment="Center" Height="35" Width="115" Command="{Binding ModifyStudent}" CommandParameter="{Binding ElementName=menuStudentView}" />
+        <Button  Grid.Row="0" Grid.Column="3" Content="Deselecteaza" BorderBrush="Black" BorderThickness="3" HorizontalAlignment="Center" Height="35" Width="115" Command="{Binding Deselect}" CommandParameter="{Binding ElementName=grid}"/>
+
+        <DataGrid x:Name="grid" Grid.Row="1" Grid.RowSpan="4" Grid.Column="2" Grid.ColumnSpan="3" AutoGenerateColumns="False"
+                  ItemsSource="{Binding Students}" IsReadOnly="True"
+                  ScrollViewer.VerticalScrollBarVisibility="Visible">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Email" Binding="{Binding Item1.Email}"/>
+                <DataGridTextColumn Header="Parola" Binding="{Binding Item1.Password}"/>
+                <DataGridTextColumn Header="Prenume" Binding="{Binding Item1.FirstName}"/>
+                <DataGridTextColumn Header="Nume" Binding="{Binding Item1.LastName}"/>
+                <DataGridTextColumn Header="Telefon" Binding="{Binding Item1.Phone}"/>
+                <DataGridTextColumn Header="Clasa" Binding="{Binding Item2}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>

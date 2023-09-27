@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FFD62CC9-A01F-45E2-BBF9-36DD794CF90C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Platforma_Educationala</RootNamespace>
+    <AssemblyName>Platforma_Educationala</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AttachedCommandBehavior, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\AttachedCommandBehavior.2.0.0.0\lib\net35\AttachedCommandBehavior.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialDesignColors, Version=2.0.0.2422, Culture=neutral, PublicKeyToken=df2a72020bd7962a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialDesignColors.2.0.0\lib\net452\MaterialDesignColors.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialDesignThemes.Wpf, Version=4.0.0.2422, Culture=neutral, PublicKeyToken=df2a72020bd7962a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialDesignThemes.4.0.0\lib\net452\MaterialDesignThemes.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.ConfigurationManager, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Configuration.ConfigurationManager.5.0.0\lib\net461\System.Configuration.ConfigurationManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Security.AccessControl, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.AccessControl.5.0.0\lib\net461\System.Security.AccessControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Permissions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Permissions.5.0.0\lib\net461\System.Security.Permissions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Principal.Windows, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Principal.Windows.5.0.0\lib\net461\System.Security.Principal.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="MVVM\View\AdminView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\ClassMasterView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\LoginView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Converters\AttendenceConverter.cs" />
+    <Compile Include="Helpers\ObservableObject.cs" />
+    <Compile Include="Helpers\RelayCommands.cs" />
+    <Compile Include="MVVM\Model\BusinessLogicLayer\AdminMenuBLL.cs" />
+    <Compile Include="MVVM\Model\BusinessLogicLayer\LoginBLL.cs" />
+    <Compile Include="MVVM\Model\BusinessLogicLayer\StudentMenuBLL.cs" />
+    <Compile Include="MVVM\Model\BusinessLogicLayer\TeacherMenuBLL.cs" />
+    <Compile Include="MVVM\Model\DataAccessLAyer\AbsencesDAL.cs" />
+    <Compile Include="MVVM\Model\DataAccessLAyer\ClassroomDAL.cs" />
+    <Compile Include="MVVM\Model\DataAccessLAyer\ClassroomSubjectTeacherDAL.cs" />
+    <Compile Include="MVVM\Model\DataAccessLAyer\HelperDAL.cs" />
+    <Compile Include="MVVM\Model\DataAccessLAyer\LoginDAL.cs" />
+    <Compile Include="MVVM\Model\DataAccessLAyer\MarksDAL.cs" />
+    <Compile Include="MVVM\Model\DataAccessLAyer\MaterialsDAL.cs" />
+    <Compile Include="MVVM\Model\DataAccessLAyer\StudentDAL.cs" />
+    <Compile Include="MVVM\Model\DataAccessLAyer\SubjectDAL.cs" />
+    <Compile Include="MVVM\Model\DataAccessLAyer\TeacherDAL.cs" />
+    <Compile Include="MVVM\Model\EntityLayer\Attendence.cs" />
+    <Compile Include="MVVM\Model\EntityLayer\Classroom.cs" />
+    <Compile Include="MVVM\Model\EntityLayer\ClassroomSubjectTeacher.cs" />
+    <Compile Include="MVVM\Model\EntityLayer\Mark.cs" />
+    <Compile Include="MVVM\Model\EntityLayer\Student.cs" />
+    <Compile Include="MVVM\Model\EntityLayer\Subject.cs" />
+    <Compile Include="MVVM\Model\EntityLayer\Teacher.cs" />
+    <Compile Include="MVVM\ViewModel\AdminVM.cs" />
+    <Compile Include="MVVM\ViewModel\ClassMasterVM.cs" />
+    <Compile Include="MVVM\ViewModel\LoginVM.cs" />
+    <Compile Include="MVVM\ViewModel\MainWindowVM.cs" />
+    <Compile Include="MVVM\ViewModel\MenuAbsencesTeacherVM.cs" />
+    <Compile Include="MVVM\ViewModel\MenuClassroomVM.cs" />
+    <Compile Include="MVVM\ViewModel\MenuRelationsVM.cs" />
+    <Compile Include="MVVM\ViewModel\MenuStudentVM.cs" />
+    <Compile Include="MVVM\ViewModel\MenuSubjectVM.cs" />
+    <Compile Include="MVVM\ViewModel\MenuTeacherVM.cs" />
+    <Compile Include="MVVM\ViewModel\ProfessorVM.cs" />
+    <Compile Include="MVVM\ViewModel\ShowAbsencesVM.cs" />
+    <Compile Include="MVVM\ViewModel\ShowAverageMarksVM.cs" />
+    <Compile Include="MVVM\ViewModel\ShowMarksVM.cs" />
+    <Compile Include="MVVM\ViewModel\ShowMaterialsVM.cs" />
+    <Compile Include="MVVM\ViewModel\StudentVM.cs" />
+    <Compile Include="MVVM\View\AdminView.xaml.cs">
+      <DependentUpon>AdminView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\ClassMasterView.xaml.cs">
+      <DependentUpon>ClassMasterView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\LoginView.xaml.cs">
+      <DependentUpon>LoginView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="MVVM\View\MenuAbsencesTeacherView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\MenuClassroomView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\MenuRelationsView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\MenuStudentView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\MenuSubjectView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\MenuTeacherView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\ProfessorView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\ShowAbsencesView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\ShowAverageMarksView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\ShowMarksView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\ShowMaterialsView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\StudentView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MVVM\View\MenuAbsencesTeacherView.xaml.cs">
+      <DependentUpon>MenuAbsencesTeacherView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\MenuClassroomView.xaml.cs">
+      <DependentUpon>MenuClassroomView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\MenuRelationsView.xaml.cs">
+      <DependentUpon>MenuRelationsView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\MenuStudentView.xaml.cs">
+      <DependentUpon>MenuStudentView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\MenuSubjectView.xaml.cs">
+      <DependentUpon>MenuSubjectView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\MenuTeacherView.xaml.cs">
+      <DependentUpon>MenuTeacherView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\ProfessorView.xaml.cs">
+      <DependentUpon>ProfessorView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\ShowAbsencesView.xaml.cs">
+      <DependentUpon>ShowAbsencesView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\ShowAverageMarksView.xaml.cs">
+      <DependentUpon>ShowAverageMarksView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\ShowMarksView.xaml.cs">
+      <DependentUpon>ShowMarksView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\ShowMaterialsView.xaml.cs">
+      <DependentUpon>ShowMaterialsView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\StudentView.xaml.cs">
+      <DependentUpon>StudentView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="Images\Educational.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Login.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\MaterialDesignThemes.4.0.0\build\MaterialDesignThemes.targets" Condition="Exists('..\packages\MaterialDesignThemes.4.0.0\build\MaterialDesignThemes.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\MaterialDesignThemes.4.0.0\build\MaterialDesignThemes.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\MaterialDesignThemes.4.0.0\build\MaterialDesignThemes.targets'))" />
+  </Target>
+</Project>
