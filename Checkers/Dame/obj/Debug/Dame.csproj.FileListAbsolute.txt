@@ -1,0 +1,14 @@
+C:\Users\Octavian\Desktop\mvp\mvvm\Dame\Dame\obj\Debug\Dame.csprojAssemblyReference.cache
+C:\Users\Octavian\Desktop\mvp\mvvm\Dame\Dame\obj\Debug\Views\GameWindow.g.cs
+C:\Users\Octavian\Desktop\mvp\mvvm\Dame\Dame\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Octavian\Desktop\mvp\mvvm\Dame\Dame\obj\Debug\App.g.cs
+C:\Users\Octavian\Desktop\mvp\mvvm\Dame\Dame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Octavian\Desktop\mvp\mvvm\Dame\Dame\obj\Debug\Dame_MarkupCompile.cache
+C:\Users\Octavian\Desktop\mvp\mvvm\Dame\Dame\obj\Debug\Dame_MarkupCompile.lref
+D:\Dame\Dame\obj\Debug\Dame.csprojAssemblyReference.cache
+D:\Dame\Dame\obj\Debug\Views\GameWindow.g.cs
+D:\Dame\Dame\obj\Debug\Views\MainWindow.g.cs
+D:\Dame\Dame\obj\Debug\App.g.cs
+D:\Dame\Dame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Dame\Dame\obj\Debug\Dame_MarkupCompile.cache
+D:\Dame\Dame\obj\Debug\Dame_MarkupCompile.lref

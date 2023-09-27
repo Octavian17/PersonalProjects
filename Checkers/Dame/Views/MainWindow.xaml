@@ -1,0 +1,29 @@
+﻿<Window x:Class="Dame.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Dame.Views"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+
+    <Grid Margin="0,0,0,0" Background = "YellowGreen">
+
+        <Label Margin="315,20,0,0" FontFamily="Verdana" FontSize="30" FontWeight="Bold">Checkers</Label>
+
+        <Button Content="NEW GAME" Click ="new_game" Foreground="Black" Background="Transparent"  FontFamily="Verdana" FontSize="12" FontWeight="Bold" HorizontalAlignment="Left" Height="54" Margin="310,100,0,0" VerticalAlignment="Top" Width="176"/>
+        <Button Click="load_game" Content="SAVE GAME" Foreground="Black" Background="Transparent" FontFamily="Verdana" FontSize="12" FontWeight="Bold" HorizontalAlignment="Left" Height="54" Margin="310,160,0,0" VerticalAlignment="Top" Width="176"/>
+        <Button Content="STATISTICS" Click ="statistics" Foreground="Black" Background="Transparent" FontFamily="Verdana" FontSize="12" FontWeight="Bold" HorizontalAlignment="Left" Height="54" Margin="310,220,0,0" VerticalAlignment="Top" Width="176"/>
+        <Button Content="ABOUT" Click ="about" Foreground="Black" Background="Transparent" FontFamily="Verdana" FontSize="12" FontWeight="Bold" HorizontalAlignment="Left" Height="54" Margin="310,280,0,0" VerticalAlignment="Top" Width="176"/>
+
+
+        <Border BorderBrush="Black" BorderThickness="3" CornerRadius="3" HorizontalAlignment="Left" Height="54" Margin="310,100,0,0" VerticalAlignment="Top" Width="176"/>
+        <Border BorderBrush="Black" BorderThickness="3" CornerRadius="3" HorizontalAlignment="Left" Height="54" Margin="310,160,0,0" VerticalAlignment="Top" Width="176"/>
+        <Border BorderBrush="Black" BorderThickness="3" CornerRadius="3" HorizontalAlignment="Left" Height="54" Margin="310,220,0,0" VerticalAlignment="Top" Width="176"/>
+        <Border BorderBrush="Black" BorderThickness="3" CornerRadius="3" HorizontalAlignment="Left" Height="54" Margin="310,280,0,0" VerticalAlignment="Top" Width="176"/>
+
+
+    </Grid>
+
+</Window>
